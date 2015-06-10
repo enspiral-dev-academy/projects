@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/enspiral-dev-academy/apprentice-projects.png?label=ready&title=Ready)](https://waffle.io/enspiral-dev-academy/apprentice-projects)
 # Apprentice Projects
 Many crafts have the concept of creating a piece of work to demonstrate your skills and graduate from one level to the next. 
 
